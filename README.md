@@ -72,31 +72,6 @@ public class Developer {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-### 👁️ Profile Views
-![](https://komarev.com/ghpvc/?username=chi157&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS)
-
-### 📈 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chi157&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chi157&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=ffffff&langs_count=8)
-
-### 🔥 Contribution Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chi157&theme=radical&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6)
-
-### 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=chi157&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)
-
-</div>
-
----
-
 ## � Development Philosophy
 
 <table>
@@ -178,6 +153,8 @@ I'm always open to discussing backend architecture, AI/ML projects, or interesti
 <div align="center">
 
 ### 💙 Thanks for visiting!
+
+![Profile Views](https://komarev.com/ghpvc/?username=chi157&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Happy%20Coding!%20🚀&fontSize=30&fontColor=fff&animation=twinkling" />
 
