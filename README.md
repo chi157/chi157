@@ -121,8 +121,9 @@ I'm always open to discussing backend architecture, AI/ML projects, or interesti
 <div align="center"> -->
 
 ## 💙 Thanks for visiting!
-
+<div align="center">
 ![Profile Views](https://komarev.com/ghpvc/?username=chi157&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS)
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Happy%20Coding!%20🚀&fontSize=30&fontColor=fff&animation=twinkling" />
 
