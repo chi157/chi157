@@ -39,7 +39,6 @@ public class Developer {
 - 💻 **Backend Development**: Building robust Java and Python backend systems
 - 🤖 **AI Solutions**: Developing machine learning models and AI applications
 - 🔧 **API Design**: Creating efficient and scalable RESTful APIs
-- ☁️ **Cloud Services**: Deploying and managing backend services on cloud platforms
 
 ---
 
