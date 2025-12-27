@@ -4,7 +4,7 @@
 
 ### 💻 Backend Java Engineer | AI Engineer | Python Backend Developer
 
-![](Chi157.mp4)
+![](Chi157.jpg)
 
 <p align="center">
   <!-- <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
