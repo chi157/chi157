@@ -5,7 +5,7 @@
 ### 💻 Backend Java Engineer | AI Engineer | Python Backend Developer
 
 <p align="center">
-  <video src="chi157.mp4" width="600" controls></video>
+  <video src="Chi157.mp4" width="600" controls></video>
 </p>
 
 <p align="center">
