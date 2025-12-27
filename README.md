@@ -91,7 +91,7 @@ public class Developer {
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chi157&repo=your-project-1&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff)](https://github.com/chi157/your-project-1)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chi157&repo=your-project-2&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff)](https://github.com/chi157/your-project-2) -->
-- Wait...... >///<
+- Wait for a second...... >///<
 
 
 <!-- </div> -->
