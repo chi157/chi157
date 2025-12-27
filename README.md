@@ -2,7 +2,11 @@
 
 # 👋 Hey, I'm Ching Chi Chang (張謦麒 Cynthia)
 
-### 🎨 Full-Stack Developer | UI/UX Enthusiast | AI Developer |Design Systems Architect
+### 💻 Backend Java Engineer | AI Engineer | Python Backend Developer
+
+<p align="center">
+  <video src="chi157.mp4" width="600" controls></video>
+</p>
 
 <p align="center">
   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
@@ -11,7 +15,7 @@
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+beautiful+interfaces+%F0%9F%8E%A8;Crafting+seamless+experiences+%E2%9C%A8;Open+source+contributor+%F0%9F%92%99;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+robust+backend+systems+%F0%9F%92%BB;Developing+AI+solutions+%F0%9F%A4%96;Crafting+efficient+APIs+%E2%9A%99%EF%B8%8F;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
 
 </div>
 
@@ -19,25 +23,25 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer who loves creating **beautiful**, **intuitive**, and **accessible** web experiences. My focus is on building design systems that scale and interfaces that delight users.
+I'm a passionate backend developer and AI engineer who loves building **robust**, **scalable**, and **efficient** systems. My focus is on developing high-performance backend services and implementing AI solutions.
 
-```typescript
-const developer = {
-  name: "Your Name",
-  role: "Full-Stack Developer",
-  passion: ["UI/UX Design", "Design Systems", "Web Performance"],
-  currentFocus: "Building scalable component libraries",
-  learning: ["Advanced TypeScript", "Web Animations", "Accessibility"],
-  philosophy: "Write code that humans can read 📖"
-};
+```java
+public class Developer {
+    private String name = "Ching Chi Chang";
+    private String role = "Backend Java Engineer | AI Engineer | Python Developer";
+    private String[] passion = {"Backend Architecture", "AI/ML", "API Design", "Data Engineering"};
+    private String currentFocus = "Building scalable backend systems and AI solutions";
+    private String[] learning = {"Advanced Java", "Machine Learning", "Cloud Architecture"};
+    private String philosophy = "Write clean, efficient, and maintainable code 📖";
+}
 ```
 
 ### 🎯 What I'm Working On
 
-- 🎨 **Design System**: Building a comprehensive rounded-blue design system
-- 🔧 **Component Library**: Creating reusable React components with TypeScript
-- 📱 **Responsive Design**: Crafting mobile-first, accessible interfaces
-- 🌐 **Open Source**: Contributing to the community one PR at a time
+- 💻 **Backend Development**: Building robust Java and Python backend systems
+- 🤖 **AI Solutions**: Developing machine learning models and AI applications
+- 🔧 **API Design**: Creating efficient and scalable RESTful APIs
+- ☁️ **Cloud Services**: Deploying and managing backend services on cloud platforms
 
 ---
 
@@ -45,19 +49,27 @@ const developer = {
 
 <div align="center">
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### Backend & Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### AI/ML & Data
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Database & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -76,26 +88,26 @@ const developer = {
 
 ---
 
-## 🎨 Design Philosophy
+## � Development Philosophy
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🎯 User-Centered
-Putting users first in every design decision. Accessibility isn't optional—it's essential.
+### 🏗️ Scalability
+Building backend systems that can grow. Efficient architecture and clean code practices.
 
 </td>
 <td width="33%" valign="top">
 
 ### ⚡ Performance
-Fast, responsive, and optimized. Every millisecond matters for user experience.
+Optimized algorithms and efficient data processing. Every operation matters for system performance.
 
 </td>
 <td width="33%" valign="top">
 
-### 🧩 Consistency
-Building design systems that scale. Reusable components, unified visual language.
+### 🔒 Reliability
+Writing robust, tested code. Security and stability are fundamental requirements.
 
 </td>
 </tr>
@@ -103,43 +115,39 @@ Building design systems that scale. Reusable components, unified visual language
 
 ---
 
-## 📝 Latest Blog Posts
+## 📝 Latest Technical Articles
 
 <!-- BLOG-POST-LIST:START -->
-- 🎨 [Building a Modern Design System](https://yourblog.com/design-system)
-- ⚡ [Performance Optimization Tips for React Apps](https://yourblog.com/react-performance)
-- 🎯 [CSS Grid vs Flexbox: When to Use Which](https://yourblog.com/grid-vs-flexbox)
-- 🚀 [My Journey into TypeScript](https://yourblog.com/typescript-journey)
+- 💻 [Building Microservices with Spring Boot](https://yourblog.com/spring-boot-microservices)
+- 🤖 [Machine Learning Model Deployment Best Practices](https://yourblog.com/ml-deployment)
+- 🚀 [Optimizing Python Backend Performance](https://yourblog.com/python-performance)
+- 🔧 [RESTful API Design Principles](https://yourblog.com/api-design)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [More blog posts...](https://yourblog.com)
+➡️ [More articles...](https://yourblog.com)
 
 ---
 
-## 🌱 Open Source
-
-I believe in giving back to the community. Here are some projects I'm proud of:
-
-### 🎨 Featured Projects
+## 💼 Featured Projects
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=design-system&theme=vue&hide_border=true&bg_color=EFF6FF&title_color=2563EB&icon_color=3B82F6&text_color=1F2937)](https://github.com/YourGitHubUsername/design-system)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=component-library&theme=vue&hide_border=true&bg_color=EFF6FF&title_color=2563EB&icon_color=3B82F6&text_color=1F2937)](https://github.com/YourGitHubUsername/component-library)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=java-backend-service&theme=vue&hide_border=true&bg_color=EFF6FF&title_color=2563EB&icon_color=3B82F6&text_color=1F2937)](https://github.com/YourGitHubUsername/java-backend-service)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=ai-ml-project&theme=vue&hide_border=true&bg_color=EFF6FF&title_color=2563EB&icon_color=3B82F6&text_color=1F2937)](https://github.com/YourGitHubUsername/ai-ml-project)
 
 </div>
 
-### 💡 The Boy Scout Rule
+### 💡 Engineering Principles
 
-> "Always leave the code better than you found it."
+> "Clean code, robust architecture, efficient solutions."
 
-I contribute to projects as I encounter issues, improving documentation, fixing bugs, and adding features. Small improvements compound into significant impact.
+I focus on building maintainable, scalable backend systems and implementing practical AI solutions that solve real-world problems.
 
 ---
 
 ## 💬 Let's Connect!
 
-I'm always excited to collaborate on interesting projects or just chat about tech, design, and creativity!
+I'm always open to discussing backend architecture, AI/ML projects, or interesting technical challenges!
 
 <div align="center">
 
