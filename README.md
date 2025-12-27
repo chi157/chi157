@@ -4,8 +4,12 @@
 
 ### 💻 Backend Java Engineer | AI Engineer | Python Backend Developer
 
+<!-- 請在 GitHub 網頁上編輯此 README，在下方直接拖放 Chi157.mp4 影片，
+     GitHub 會自動生成正確的嵌入格式。目前的佔位符： -->
 <p align="center">
-  <video src="Chi157.mp4" width="600" controls></video>
+  <a href="https://github.com/chi157/chi157/raw/main/Chi157.mp4">
+    <img src="https://img.shields.io/badge/▶️_Watch_My_Demo_Video-4285F4?style=for-the-badge&logo=googleplay&logoColor=white" alt="Watch Video" />
+  </a>
 </p>
 
 <p align="center">
