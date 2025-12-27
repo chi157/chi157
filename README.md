@@ -95,7 +95,7 @@ public class Developer {
 
 <!-- </div> -->
 
-### 💡 Engineering Principles
+## 💡 Engineering Principles
 
 > "Clean code, robust architecture, efficient solutions."
 
