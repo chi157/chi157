@@ -126,4 +126,3 @@ I'm always open to discussing backend architecture, AI/ML projects, or interesti
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Happy%20Coding!%20🚀&fontSize=30&fontColor=fff&animation=twinkling" />
 
-</div>
