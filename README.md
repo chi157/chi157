@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Ching Chi Chang (張謦麒 Cynthia)
 
-### 💻 Backend Java Engineer | AI Engineer | Python Backend Developer
+### 💻 Backend Java Engineer |Backend Python Engineer | AI Engineer 
 
 ![](Chi157.jpg)
 
