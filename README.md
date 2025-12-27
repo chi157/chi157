@@ -71,7 +71,7 @@ public class Developer {
 
 ---
 
-## 📝 Latest Technical Articles
+<!-- ## 📝 Latest Technical Articles
 
 <!-- BLOG-POST-LIST:START -->
 <!-- - 💻 [Building Microservices with Spring Boot](https://yourblog.com/spring-boot-microservices)
@@ -83,7 +83,7 @@ public class Developer {
 
 <!-- ➡️ [More articles...](https://yourblog.com) -->
 
----
+--- -->
 
 ## 💼 Recent Research
 
