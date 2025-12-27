@@ -82,6 +82,18 @@ public class Developer {
 
 <!-- </div> -->
 
+---
+
+## 📝 Latest Medium Articles
+
+<!-- MEDIUM:START -->
+<!-- This section will be automatically updated by GitHub Actions -->
+<!-- MEDIUM:END -->
+
+➡️ **[View all articles →](./ARTICLES.md)**
+
+---
+
 ## 💡 Engineering Principles
 
 > "Clean code, robust architecture, efficient solutions."
