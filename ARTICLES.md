@@ -7,7 +7,6 @@ This page contains all my Medium articles. The list is automatically updated dai
 ## 📝 Complete Article List
 
 <!-- ARTICLES:START -->
-<!-- This section will be automatically updated by GitHub Actions -->
 <!-- ARTICLES:END -->
 
 ---

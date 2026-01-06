@@ -1,19 +1,21 @@
 name: Latest Medium Articles
+
 on:
   schedule:
-    # 每天 UTC 00:00 執行（台灣時間早上 8:00）
     - cron: '0 0 * * *'
-  workflow_dispatch: # 允許手動觸發
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-readme-with-blog:
-    name: Update README with latest Medium posts
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
-      
-      - name: Pull in Medium posts
+        uses: actions/checkout@v4
+
+      - name: Update README with latest Medium posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: 5
@@ -21,8 +23,11 @@ jobs:
           readme_path: "./README.md"
           comment_tag_name: "MEDIUM"
           template: "- 📝 [$title]($url) - *$newline$description*"
-          
-      - name: Update articles.md with all posts
+          commit_message: "chore: update Medium posts (README)"
+          committer_username: "github-actions[bot]"
+          committer_email: "github-actions[bot]@users.noreply.github.com"
+
+      - name: Update ARTICLES.md with all posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: 50
@@ -30,3 +35,6 @@ jobs:
           readme_path: "./ARTICLES.md"
           comment_tag_name: "ARTICLES"
           template: "- 📝 **[$title]($url)** - *$newline  Published: $date*"
+          commit_message: "chore: update Medium posts (ARTICLES)"
+          committer_username: "github-actions[bot]"
+          committer_email: "github-actions[bot]@users.noreply.github.com"
