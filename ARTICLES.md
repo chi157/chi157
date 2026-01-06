@@ -6,9 +6,10 @@ This page contains all my Medium articles. The list is automatically updated dai
 
 ## 📝 Complete Article List
 
-<!-- ARTICLES:START -->
-<!-- This section will be automatically updated by GitHub Actions -->
-<!-- ARTICLES:END -->
+|  Title  | URL |
+|  ----  | ----  |
+| [RAG: Retrieval-Augmented Generation，檢索增強生成](https://www.runoob.com/markdown/md-table.html) | 2026/01/06 |
+
 
 ---
 
