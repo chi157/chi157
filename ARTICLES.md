@@ -6,7 +6,7 @@ This page contains all my Medium articles. The list is automatically updated dai
 
 ## 📝 Complete Article List
 
-|  Title  | URL |
+|  Title  | Date |
 |  ----  | ----  |
 | [RAG: Retrieval-Augmented Generation，檢索增強生成](https://www.runoob.com/markdown/md-table.html) | 2026/01/06 |
 
