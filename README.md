@@ -72,8 +72,9 @@ public class Developer {
 
 ## 📝 Latest Medium Articles
 
-### Latest five articles: 
-- [RAG: Retrieval-Augmented Generation，檢索增強生成](https://medium.com/@chi157/rag-retrieval-augmented-generation-%E6%AA%A2%E7%B4%A2%E5%A2%9E%E5%BC%B7%E7%94%9F%E6%88%90-4219bdbadf5b)
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
+
 
 ➡️ **[View all articles →](./ARTICLES.md)**
 
