@@ -72,7 +72,7 @@ public class Developer {
 
 ## 📝 Latest Medium Articles
 
-<!-- MEDIUM:START -->- 📝 [RAG: Retrieval-Augmented Generation](https://chi157.medium.com/rag-retrieval-augmented-generation-%E6%AA%A2%E7%B4%A2%E5%A2%9E%E5%BC%B7%E7%94%9F%E6%88%90-4219bdbadf5b?source=rss-4c72a0dd1fdc------2)<!-- MEDIUM:END -->
+<!-- MEDIUM:START -->- [RAG: Retrieval-Augmented Generation](https://chi157.medium.com/rag-retrieval-augmented-generation-%E6%AA%A2%E7%B4%A2%E5%A2%9E%E5%BC%B7%E7%94%9F%E6%88%90-4219bdbadf5b?source=rss-4c72a0dd1fdc------2)<!-- MEDIUM:END -->
 
 
 ➡️ **[View all articles →](./ARTICLES.md)**
