@@ -23,6 +23,7 @@ jobs:
           readme_path: "./README.md"
           comment_tag_name: "MEDIUM"
           template: "- [$title]($url)"
+          tag_post_pre_newline: true
           commit_message: "chore: update Medium posts (README)"
           committer_username: "github-actions[bot]"
           committer_email: "github-actions[bot]@users.noreply.github.com"
@@ -35,6 +36,7 @@ jobs:
           readme_path: "./ARTICLES.md"
           comment_tag_name: "ARTICLES"
           template: "- **[$title]($url)** - *Published: $date*"
+          tag_post_pre_newline: true
           commit_message: "chore: update Medium posts (ARTICLES)"
           committer_username: "github-actions[bot]"
           committer_email: "github-actions[bot]@users.noreply.github.com"
