@@ -22,7 +22,8 @@ jobs:
           feed_list: "https://medium.com/feed/@chi157"
           readme_path: "./README.md"
           comment_tag_name: "MEDIUM"
-          template: "$newline$newline- [$title]($url)$newline$newline"
+          template: "- [$title]($url)"
+          tag_post_pre_newline: true
           commit_message: "chore: update Medium posts (README)"
           committer_username: "github-actions[bot]"
           committer_email: "github-actions[bot]@users.noreply.github.com"
@@ -34,7 +35,8 @@ jobs:
           feed_list: "https://medium.com/feed/@chi157"
           readme_path: "./ARTICLES.md"
           comment_tag_name: "ARTICLES"
-          template: "$newline- **[$title]($url)** - *Published: $date*$newline"
+          template: "- **[$title]($url)** - *Published: $date*"
+          tag_post_pre_newline: true
           commit_message: "chore: update Medium posts (ARTICLES)"
           committer_username: "github-actions[bot]"
           committer_email: "github-actions[bot]@users.noreply.github.com"
