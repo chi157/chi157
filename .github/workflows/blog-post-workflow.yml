@@ -22,7 +22,7 @@ jobs:
           feed_list: "https://medium.com/feed/@chi157"
           readme_path: "./README.md"
           comment_tag_name: "MEDIUM"
-          template: "$newline- [$title]($url)$newline"
+          template: "$newline$newline- [$title]($url)$newline$newline"
           commit_message: "chore: update Medium posts (README)"
           committer_username: "github-actions[bot]"
           committer_email: "github-actions[bot]@users.noreply.github.com"
